@@ -1,0 +1,12 @@
+{
+  "name": "afghan-proverbs-api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "This is a RESTful API for managing traditional Afghan proverbs and sayings in Dari, Pashto, and English. The API allows users to retrieve, add, update, and delete proverbs. It supports category filtering, random proverb retrieval, and keyword search."
+}
